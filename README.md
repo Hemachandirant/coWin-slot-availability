@@ -46,9 +46,4 @@ If `Anaconda` doesn't appear on the first line, you are using a different versio
 &nbsp;
 # Demo
 ![](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability/blob/main/demo/demo_1.gif)
-# Articles
-&nbsp;
-[Link to the article 1](https://analyticsindiamag.com/data-scientist-creates-python-script-to-track-available-slots-for-covid-vaccinations/)    
-&nbsp;
-[Link to the article 2](https://yourstory.com/2021/05/paytm-launches-covid-19-vaccine-finder-tracks-slot-availability/amp)
 
